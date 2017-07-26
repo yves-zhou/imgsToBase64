@@ -1,0 +1,2 @@
+# imgsToBase64
+利用nodejs把图片转换成base64字符串
