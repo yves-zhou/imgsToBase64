@@ -1,0 +1,19 @@
+{
+  "name": "imgstobase64",
+  "version": "1.0.0",
+  "description": "图片转换成base64字符串",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouy4810/imgsToBase64.git"
+  },
+  "author": "zhouy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhouy4810/imgsToBase64/issues"
+  },
+  "homepage": "https://github.com/zhouy4810/imgsToBase64#readme"
+}
